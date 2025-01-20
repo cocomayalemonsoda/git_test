@@ -1,2 +1,5 @@
 What am I even doing?
 Testing add and commit
+For context, this is my Day 1 for learning web development.
+I learned Python for personal projects before I can even use Git.
+I might be learning it right this time. We'll see.
